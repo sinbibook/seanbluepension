@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-01-26T03:52:28.352Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-01-26T04:00:58.288Z",
     "templateType": "full_banner_wipe",
     "propertyId": "08497e8d-1afe-400c-a55c-923d3028c52f",
     "homepageId": "5967bd94-649c-466b-b0ec-5a4d9304ac93"
@@ -352,16 +352,100 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": "거제 씨엔블루패밀리 풀빌라",
+                "images": [
+                  {
+                    "id": "34a78b98-a6ac-4aac-b910-1107cc9b2679",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769400051237-fu6gkkv6csc.jpg?quality=100",
+                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769400051237-fu6gkkv6csc.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "acec6cd7-11ee-43a6-bc0e-7d1493f526a4",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769400051237-wtr5qjpojsn.jpg?quality=100",
+                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769400051237-wtr5qjpojsn.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "8fc47df1-2f69-4334-9d99-1c3a0fdc5d58",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769400051237-kla5d11k39a.jpg?quality=100",
+                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769400051237-kla5d11k39a.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "334e0511-e99d-4167-84bf-77815c58f262",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769400051237-2qc8febprcm.jpg?quality=100",
+                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769400051237-2qc8febprcm.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "9c0d1135-a8c8-4c96-a2e6-9e84c3039e32",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769400051238-ysw5ok6szfc.jpg?quality=100",
+                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769400051238-ysw5ok6szfc.jpg",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "69584673-0114-4d13-a204-a5183650ea62",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769400051238-gkwm8876nxa.jpg?quality=100",
+                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769400051238-gkwm8876nxa.jpg",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "39942896-5280-405c-a771-1f4c11931059",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769400051238-kld7ouu4tu.jpg?quality=100",
+                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769400051238-kld7ouu4tu.jpg",
+                    "sortOrder": 6,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": "바다를 닮은 쉼, 씨앤블루 빌리지"
               },
               "closing": {
                 "title": "",
                 "images": []
               },
               "essence": {
-                "title": "",
-                "images": []
+                "title": "모든 방에서 펼쳐지는 탁 트인 오션뷰",
+                "images": [
+                  {
+                    "id": "3d56f420-8c27-4d29-90f5-4fca41c8bf4d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_essence/1769400051238-riyjkknpa9h.jpg?quality=100",
+                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_essence/1769400051238-riyjkknpa9h.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "74132c96-8fbf-4eb1-ae12-a0258064f89f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_essence/1769400051238-ulkr7gphrrd.jpg?quality=100",
+                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_essence/1769400051238-ulkr7gphrrd.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "92307f95-4d17-4069-acc6-db77c3835b0c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_essence/1769400051238-3elpt8vig5.jpg?quality=100",
+                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_essence/1769400051238-3elpt8vig5.jpg",
+                    "sortOrder": 7,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": "어디에 머물러도 바다가 함께합니다\n창을 여는 순간, 시야 가득 채워지는 푸른 풍경\n객실마다 다른 각도에서 만나는 바다의 표정\n거제의 바다를 가장 가까이에서 누리는 시간"
               },
               "gallery": {
                 "title": "",
