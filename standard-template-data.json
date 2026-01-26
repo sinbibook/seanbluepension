@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.9.0",
-    "generatedAt": "2026-01-26T08:25:52.691Z",
+    "version": "1.10.0",
+    "generatedAt": "2026-01-26T08:29:56.939Z",
     "templateType": "full_banner_wipe",
     "propertyId": "08497e8d-1afe-400c-a55c-923d3028c52f",
     "homepageId": "5967bd94-649c-466b-b0ec-5a4d9304ac93"
@@ -519,23 +519,30 @@
                     "isSelected": true
                   },
                   {
-                    "id": "334e0511-e99d-4167-84bf-77815c58f262",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769400051237-2qc8febprcm.jpg",
+                    "id": "8b5a6e92-09ef-466b-8952-38ce05c3f109",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769416169564-p5qtf23r3gi.jpg",
                     "sortOrder": 5,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "db1dcf4b-0cea-4125-a5b6-f4c39ead21da",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769416169564-n19qeew62w.jpg",
+                    "sortOrder": 6,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "69584673-0114-4d13-a204-a5183650ea62",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769400051238-gkwm8876nxa.jpg",
-                    "sortOrder": 6,
+                    "sortOrder": 7,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "39942896-5280-405c-a771-1f4c11931059",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769400051238-kld7ouu4tu.jpg",
-                    "sortOrder": 7,
+                    "sortOrder": 8,
                     "description": "",
                     "isSelected": true
                   }
@@ -580,7 +587,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": "어디에 머물러도 바다가 함께합니다\n창을 여는 순간, 시야 가득 채워지는 푸른 풍경\n객실마다 다른 각도에서 만나는 바다의 표정\n거제의 바다를 가장 가까이에서 누리는 시간"
+                "description": "어디에 머물러도 바다가 함께합니다.\n창을 여는 순간, 시야 가득 채워지는 푸른 풍경\n객실마다 다른 각도에서 만나는 바다의 표정\n거제의 바다를 가장 가까이에서 누리는 시간"
               },
               "gallery": {
                 "title": "Preview",
