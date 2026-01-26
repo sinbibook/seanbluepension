@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-01-26T05:57:18.954Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-01-26T06:56:56.640Z",
     "templateType": "full_banner_wipe",
     "propertyId": "08497e8d-1afe-400c-a55c-923d3028c52f",
     "homepageId": "5967bd94-649c-466b-b0ec-5a4d9304ac93"
@@ -255,23 +255,6 @@
             "isSelected": true
           }
         ]
-      },
-      {
-        "id": "f986cb24-7794-4ce9-987a-1df13a74df85",
-        "name": "블루투스 스피커",
-        "description": "객실 내에서 블루투스 스피커를 이용해 푸른 거제도 바다를 음악과 함께 즐겨보세요.",
-        "usageGuide": "- 이용 객실 : 202호\n- 무료 이용",
-        "displayOrder": 79,
-        "images": [
-          {
-            "id": "f6fe26c4-e054-4e9f-9e42-03e007bcd5c2",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/facility/f986cb24-7794-4ce9-987a-1df13a74df85/main/1769406464283-c3ledrkrws8.jpg?quality=100",
-            "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f986cb24-7794-4ce9-987a-1df13a74df85/main/1769406464283-c3ledrkrws8.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true
-          }
-        ]
       }
     ],
     "refundPolicies": [
@@ -390,7 +373,7 @@
     },
     {
       "id": "e54587fe-8cbb-416a-a02e-cb7400d138e3",
-      "name": "202 (개별수영장,블투스피커,오션뷰)",
+      "name": "202 (개별수영장,오션뷰)",
       "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별수영장\n바다전망, 25평(82.65㎡)\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,풀빌라,개별수영장,드라이기,린스,바디워시,블루투스 스피커,샴푸,식탁,타월,테라스",
       "roomInfo": "",
       "group": "202 (개별수영장,블투스피커,오션뷰)",
@@ -444,7 +427,7 @@
     },
     {
       "id": "0e72f2c1-f75c-4224-8ca6-f17daa3788d2",
-      "name": "203 (개별수영장,오션뷰,빔프로젝터)",
+      "name": "203 (개별수영장,오션뷰)",
       "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실2+개별수영장\n바다전망, 25평(82.65㎡)\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,풀빌라,개별수영장,드라이기,린스,바디워시,블루투스 스피커,샴푸,식탁,타월,테라스",
       "roomInfo": "",
       "group": "203 (개별수영장,오션뷰,빔프로젝터)",
@@ -693,7 +676,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": " ",
                 "images": [
                   {
                     "id": "21317240-24df-498d-82d2-7ebe81e92f2b",
@@ -703,11 +686,12 @@
                     "description": "",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": " 편안한 휴식을 위해 준비된, 오직 당신만을 위한 프라이빗 풀빌라\n\n거제의 드넓은 바다와\n석양에 물들어 붉게 빛나는 풍경이 하루를 감싸고\n사계절 내내 즐길 수 있는 개별 온수풀과 야외 인피니티 풀에서\n일상의 피로를 내려놓는 여유로운 시간이 이어집니다\n\n사랑하는 사람들과 함께\n소중한 순간을 천천히 쌓아가는 곳\n거제 씨엔블루 풀빌라에 오신 것을 진심으로 환영합니다"
               },
               "about": [
                 {
-                  "title": "",
+                  "title": " 단독 개별 수영장",
                   "images": [
                     {
                       "id": "3ea1216d-0b85-4b44-8721-1b29b4904ddd",
@@ -720,7 +704,7 @@
                     }
                   ],
                   "blockId": "e4a7e2f5-480b-4299-a68b-2d052e306db4",
-                  "description": ""
+                  "description": "다른 누구의 방해 없이 즐기는 개별 수영장\n프라이빗한 공간에서 오롯이 나만의 여유를 누려보세요"
                 },
                 {
                   "title": "",
