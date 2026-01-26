@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2026-01-26T08:20:45.666Z",
+    "version": "1.9.0",
+    "generatedAt": "2026-01-26T08:25:22.385Z",
     "templateType": "full_banner_wipe",
     "propertyId": "08497e8d-1afe-400c-a55c-923d3028c52f",
     "homepageId": "5967bd94-649c-466b-b0ec-5a4d9304ac93"
@@ -491,37 +491,51 @@
                     "isSelected": true
                   },
                   {
+                    "id": "691fd683-de6d-45e8-9c87-d665c1da07fa",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769415768622-x55hfgx6drc.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "d25ebb78-d4b5-4a41-bfcd-b4846ed008c1",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769415768622-9umgticyalw.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
                     "id": "acec6cd7-11ee-43a6-bc0e-7d1493f526a4",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769400051237-wtr5qjpojsn.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "8fc47df1-2f69-4334-9d99-1c3a0fdc5d58",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769400051237-kla5d11k39a.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 4,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "334e0511-e99d-4167-84bf-77815c58f262",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769400051237-2qc8febprcm.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 5,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "69584673-0114-4d13-a204-a5183650ea62",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769400051238-gkwm8876nxa.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 6,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "39942896-5280-405c-a771-1f4c11931059",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769400051238-kld7ouu4tu.jpg",
-                    "sortOrder": 5,
+                    "sortOrder": 7,
                     "description": "",
                     "isSelected": true
                   }
@@ -542,7 +556,7 @@
                 "description": " 바다를 바라보는 설렘, 그 시작을 미리 느껴보세요"
               },
               "essence": {
-                "title": "모든 방에서 펼쳐지는 탁 트인 오션뷰",
+                "title": "모든 방에서 펼쳐지는 오션뷰",
                 "images": [
                   {
                     "id": "3d56f420-8c27-4d29-90f5-4fca41c8bf4d",
@@ -720,7 +734,12 @@
       },
       "theme": {
         "font": {
-          "koSub": null,
+          "koSub": {
+            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
+            "key": "pretendard",
+            "woff2": null,
+            "family": "Pretendard"
+          },
           "enMain": null,
           "koMain": {
             "cdn": "https://fonts.cdnfonts.com/css/noto-serif-kr",
