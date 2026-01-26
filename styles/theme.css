@@ -1,0 +1,7 @@
+/* CDN Fonts */
+@import url('https://fonts.cdnfonts.com/css/noto-serif-kr');
+
+/* CSS Variables */
+:root {
+  --font-ko-main: 'Noto Serif KR', sans-serif;
+}
