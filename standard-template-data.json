@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.10.0",
-    "generatedAt": "2026-01-26T08:29:56.939Z",
+    "version": "1.11.0",
+    "generatedAt": "2026-01-26T08:34:18.531Z",
     "templateType": "full_banner_wipe",
     "propertyId": "08497e8d-1afe-400c-a55c-923d3028c52f",
     "homepageId": "5967bd94-649c-466b-b0ec-5a4d9304ac93"
@@ -505,44 +505,37 @@
                     "isSelected": true
                   },
                   {
-                    "id": "acec6cd7-11ee-43a6-bc0e-7d1493f526a4",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769400051237-wtr5qjpojsn.jpg",
-                    "sortOrder": 3,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
                     "id": "8fc47df1-2f69-4334-9d99-1c3a0fdc5d58",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769400051237-kla5d11k39a.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "8b5a6e92-09ef-466b-8952-38ce05c3f109",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769416169564-p5qtf23r3gi.jpg",
-                    "sortOrder": 5,
+                    "sortOrder": 4,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "db1dcf4b-0cea-4125-a5b6-f4c39ead21da",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769416169564-n19qeew62w.jpg",
-                    "sortOrder": 6,
+                    "sortOrder": 5,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "69584673-0114-4d13-a204-a5183650ea62",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769400051238-gkwm8876nxa.jpg",
-                    "sortOrder": 7,
+                    "sortOrder": 6,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "39942896-5280-405c-a771-1f4c11931059",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_hero/1769400051238-kld7ouu4tu.jpg",
-                    "sortOrder": 8,
+                    "sortOrder": 7,
                     "description": "",
                     "isSelected": true
                   }
@@ -600,10 +593,10 @@
                     "isSelected": true
                   },
                   {
-                    "id": "5b15560a-75f5-43fb-9057-86e7ee0bcb36",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_gallery/1769404366799-ulaipsfei1n.jpg",
+                    "id": "f32de72e-c00f-4da6-9807-d2dec56aa64f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_gallery/1769416366135-4ctidoiccur.jpg",
                     "sortOrder": 1,
-                    "description": "야외수영장",
+                    "description": "불멍",
                     "isSelected": true
                   },
                   {
@@ -614,17 +607,17 @@
                     "isSelected": true
                   },
                   {
-                    "id": "58c2fe98-ef85-4926-b6be-34979ce359e3",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_gallery/1769404366799-8wagpz26t3u.jpg",
+                    "id": "57537a61-18bc-4e28-b535-b4011c926ff1",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_gallery/1769416366135-sbt93j1lurg.jpg",
                     "sortOrder": 3,
-                    "description": "전객실 오션뷰",
+                    "description": "바베큐",
                     "isSelected": true
                   },
                   {
-                    "id": "ee930827-edf0-4a2a-b3ac-345ee6429b2f",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_gallery/1769404366799-h0cqigi517w.jpg",
+                    "id": "5b15560a-75f5-43fb-9057-86e7ee0bcb36",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_gallery/1769404366799-ulaipsfei1n.jpg",
                     "sortOrder": 4,
-                    "description": "객실 내 전망",
+                    "description": "야외수영장",
                     "isSelected": true
                   }
                 ],
