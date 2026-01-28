@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.21.0",
-    "generatedAt": "2026-01-28T01:30:50.578Z",
+    "version": "1.22.0",
+    "generatedAt": "2026-01-28T01:56:32.860Z",
     "templateType": "full_banner_wipe",
     "propertyId": "08497e8d-1afe-400c-a55c-923d3028c52f",
     "homepageId": "5967bd94-649c-466b-b0ec-5a4d9304ac93"
@@ -215,22 +215,6 @@
           {
             "id": "fd2eb9ee-d04a-494c-9015-51620b8a2a96",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2fb7b5e0-aac3-4aee-a4c1-1c2b5543582e/main/1769406585100-pitkm795249.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true
-          }
-        ]
-      },
-      {
-        "id": "7d74a70d-e650-49d1-aaae-031bfe054625",
-        "name": "빔프로젝트",
-        "description": "객실 내에서 빔프로젝트를 이용한 즐거운 영상 시청 타임~! ",
-        "usageGuide": "- 이용 객실 : 203호\n- 요금 : 20,000원\n※ 1박 기준/현장결제",
-        "displayOrder": 78,
-        "images": [
-          {
-            "id": "6cdfb9c2-58ff-48e2-9e00-c84807e93c13",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7d74a70d-e650-49d1-aaae-031bfe054625/main/1769406463552-ereu64e9r8g.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true
