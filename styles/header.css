@@ -82,12 +82,13 @@ html.menu-open {
 }
 
 .logo-text {
-    font-family: 'Roustel', sans-serif;
+    font-family: var(--font-en-main);
     font-size: 28px;
     font-weight: normal;
     color: white;
     letter-spacing: 2px;
     transition: color 0.3s ease;
+    white-space: nowrap;
 }
 
 .top-header.scrolled .logo-text {
@@ -398,7 +399,7 @@ body .header-opened.expanded {
 }
 
 .side-logo-text {
-    font-family: 'Roustel', sans-serif;
+    font-family: var(--font-en-main);
     font-size: 24px;
     font-weight: normal;
     color: white;
@@ -424,7 +425,7 @@ body .header-opened.expanded {
 }
 
 .dropdown-section-title {
-    font-family: 'Roustel', sans-serif;
+    font-family: var(--font-en-main);
     font-size: 18px;
     font-weight: normal;
     color: white;
@@ -518,7 +519,7 @@ body .header-opened.expanded {
     }
 
     .logo-text {
-        font-size: 24px;
+        font-size: 21px;
     }
 
     .reservation-btn {

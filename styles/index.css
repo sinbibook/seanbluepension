@@ -193,12 +193,12 @@
 }
 
 .property-name-en {
-    font-family: 'Roustel', sans-serif;
+    font-family: var(--font-en-main);
     font-size: 48px;
     font-weight: normal;
     color: var(--color-secondary, #658399);
     margin: 0;
-    line-height: 1.2;
+    line-height: 1.5;
     letter-spacing: 2px;
     display: flex;
     align-items: center;
@@ -545,7 +545,7 @@
 }
 
 .rooms-title {
-    font-family: 'Roustel', sans-serif;
+    font-family: var(--font-en-main);
     font-size: 42px;
     font-weight: normal;
     color: var(--color-secondary, #658399);
@@ -826,7 +826,7 @@
 }
 
 .gallery-section-title {
-    font-family: 'Roustel', sans-serif;
+    font-family: var(--font-en-main);
     font-size: 42px;
     font-weight: normal;
     color: var(--color-secondary, #658399);
@@ -1066,7 +1066,7 @@
 .closing-property-name {
     font-size: 30px;
     font-weight: bold;
-    font-family: 'Roustel', sans-serif;
+    font-family: var(--font-en-main);
     letter-spacing: 5px;
     color: white;
     writing-mode: vertical-rl;
