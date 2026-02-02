@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.30.0",
-    "generatedAt": "2026-02-02T06:05:01.433Z",
+    "version": "1.31.0",
+    "generatedAt": "2026-02-02T06:06:14.503Z",
     "templateType": "full_banner_wipe",
     "propertyId": "08497e8d-1afe-400c-a55c-923d3028c52f",
     "homepageId": "5967bd94-649c-466b-b0ec-5a4d9304ac93"
@@ -424,7 +424,7 @@
           "sections": [
             {
               "hero": {
-                "title": "거제 씨엔블루패밀리 풀빌라",
+                "title": "바다를 닮은 쉼, 씨엔블루 패밀리 풀빌라",
                 "images": [
                   {
                     "id": "d25ebb78-d4b5-4a41-bfcd-b4846ed008c1",
@@ -483,7 +483,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": "바다를 닮은 쉼, 씨앤블루 패밀리"
+                "description": " "
               },
               "closing": {
                 "title": " ",
