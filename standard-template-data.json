@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.29.0",
-    "generatedAt": "2026-01-30T01:19:27.406Z",
+    "version": "1.30.0",
+    "generatedAt": "2026-02-02T06:05:01.433Z",
     "templateType": "full_banner_wipe",
     "propertyId": "08497e8d-1afe-400c-a55c-923d3028c52f",
     "homepageId": "5967bd94-649c-466b-b0ec-5a4d9304ac93"
@@ -807,7 +807,12 @@
             "woff2": null,
             "family": "Pretendard"
           },
-          "enMain": null,
+          "enMain": {
+            "cdn": "https://use.typekit.net/vll4umt.css",
+            "key": "amandine",
+            "woff2": null,
+            "family": "amandine"
+          },
           "koMain": {
             "cdn": "https://fonts.cdnfonts.com/css/noto-serif-kr",
             "key": "notoserifKR",
