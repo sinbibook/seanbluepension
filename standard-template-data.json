@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.33.0",
-    "generatedAt": "2026-02-02T06:09:22.693Z",
+    "version": "1.34.0",
+    "generatedAt": "2026-03-16T08:46:56.738Z",
     "templateType": "full_banner_wipe",
     "propertyId": "08497e8d-1afe-400c-a55c-923d3028c52f",
     "homepageId": "5967bd94-649c-466b-b0ec-5a4d9304ac93"
@@ -229,8 +229,101 @@
     },
     "images": [
       {
-        "thumbnail": [],
-        "exterior": [],
+        "thumbnail": [
+          {
+            "id": "e239e2b1-1526-4933-92de-164aa1cf6b11",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/08497e8d-1afe-400c-a55c-923d3028c52f/thumbnail/1773104904966-m4yv50pg9jr.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ],
+        "exterior": [
+          {
+            "id": "d928aebe-142a-4994-b0ab-e9c117129591",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/08497e8d-1afe-400c-a55c-923d3028c52f/exterior/1773104904967-daapvzhkag.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "e610643b-a1f6-47ae-802f-a2fac41df486",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/08497e8d-1afe-400c-a55c-923d3028c52f/exterior/1773104904968-5wuz5dticp3.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "23288218-bd0d-4e2f-90bb-8ecfc919e8a7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/08497e8d-1afe-400c-a55c-923d3028c52f/exterior/1773104904967-7hdx7pa19hp.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "ccfa4e0c-dd07-4dbb-8fc6-a45e751fa8e4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/08497e8d-1afe-400c-a55c-923d3028c52f/exterior/1773104904969-nbdv1ab384e.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "5d6444eb-9db2-4cc2-8ad0-148b3c6ae45b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/08497e8d-1afe-400c-a55c-923d3028c52f/exterior/1773104904969-0zuik8c8sgyo.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "c9d1baea-4746-4009-82d2-a6a234ad7c26",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/08497e8d-1afe-400c-a55c-923d3028c52f/exterior/1773104904968-0jbmaxp885d.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "f080d99a-091f-4ae3-86e3-bb4f6cb4dbd0",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/08497e8d-1afe-400c-a55c-923d3028c52f/exterior/1773104904967-f899cttge0p.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "48036276-d7a4-45ec-aa95-07c6d1de5a6b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/08497e8d-1afe-400c-a55c-923d3028c52f/exterior/1773104904969-q2obaedm09m.jpg",
+            "sortOrder": 11,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "45d26b33-1293-41d2-967d-ba9c4755e2b4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/08497e8d-1afe-400c-a55c-923d3028c52f/exterior/1773104904969-skqbuxdt4pa.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "8e8d60d3-ca6a-4947-a696-881f6da8f917",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/08497e8d-1afe-400c-a55c-923d3028c52f/exterior/1773104904967-k161ipa3dy.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "ad825aa8-77fa-4639-8d4e-5e6c3d4995d6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/08497e8d-1afe-400c-a55c-923d3028c52f/exterior/1773104904968-duc6a4cgtsj.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "89da7a2f-d958-4276-9714-dcbb83d7da2a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/08497e8d-1afe-400c-a55c-923d3028c52f/exterior/1773104904968-g40lcq92g37.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          }
+        ],
         "surrounding": [],
         "commonArea": []
       }
@@ -246,6 +339,7 @@
       "name": "102(6미터풀,오션뷰,불멍)",
       "description": "원룸형 : 거실(퀸2)+주방+화장실+개별테라스+6미터개별온수풀",
       "roomInfo": "[인원추가(1박기준/사전결제)]\n- 인원추가비 : 13세 이상 30,000원 / 12세 이하 20,000원\n※ 1박기준/현장결제\n※ 영유아 인원수 포함",
+      "usageGuide": "",
       "group": "102(6미터풀,오션뷰,불멍)",
       "size": 82,
       "baseOccupancy": 2,
@@ -300,6 +394,7 @@
       "name": "202 (개별수영장,오션뷰)",
       "description": "복층형 : \n- 1층 : 거실+주방+화장실+개별테라스\n- 2층 : 침대룸A(퀸1)+개별온수풀",
       "roomInfo": "[인원추가(1박기준/사전결제)]\n- 인원추가비 : 13세 이상 30,000원 / 12세 이하 20,000원\n※ 1박기준/현장결제\n※ 영유아 인원수 포함",
+      "usageGuide": "",
       "group": "202 (개별수영장,블투스피커,오션뷰)",
       "size": 82,
       "baseOccupancy": 2,
@@ -354,6 +449,7 @@
       "name": "203 (개별수영장,오션뷰)",
       "description": "복층형 : \n- 1층 : 거실+주방+화장실+개별테라스\n- 2층 : 침대룸A(퀸1)+화장실+개별온수풀",
       "roomInfo": "[인원추가(1박기준/사전결제)]\n- 인원추가비 : 13세 이상 30,000원 / 12세 이하 20,000원\n※ 1박기준/현장결제\n※ 영유아 인원수 포함",
+      "usageGuide": "",
       "group": "203 (개별수영장,오션뷰,빔프로젝터)",
       "size": 82,
       "baseOccupancy": 2,
