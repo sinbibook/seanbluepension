@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.43.0",
-    "generatedAt": "2026-07-13T04:55:59.391740828Z",
+    "version": "1.44.0",
+    "generatedAt": "2026-07-13T04:56:35.312401892Z",
     "templateType": "full_banner_wipe",
     "propertyId": "08497e8d-1afe-400c-a55c-923d3028c52f",
     "homepageId": "5967bd94-649c-466b-b0ec-5a4d9304ac93"
@@ -1313,7 +1313,7 @@
                   "description": "캠프파이어와 함께 즐기는 불멍의 여유\n타닥이는 소리에 마음까지 따뜻해집니다."
                 },
                 {
-                  "title": "오션뷰를 담은 한 끼",
+                  "title": "함께라서 더 특별한 식탁",
                   "images": [
                     {
                       "id": "ebf01d39-ee28-4c02-bb3b-b18c726dacd2",
@@ -1325,7 +1325,7 @@
                     }
                   ],
                   "blockId": "7dff2f32-eb6d-4c2d-85b8-ae8466b19cf2",
-                  "description": ""
+                  "description": "따뜻한 바베큐와 함께\n여행의 즐거움을 더욱 깊게 채워보세요."
                 }
               ]
             }
