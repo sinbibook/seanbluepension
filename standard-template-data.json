@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.42.0",
-    "generatedAt": "2026-07-13T03:53:30.831004771Z",
+    "version": "1.43.0",
+    "generatedAt": "2026-07-13T04:55:59.391740828Z",
     "templateType": "full_banner_wipe",
     "propertyId": "08497e8d-1afe-400c-a55c-923d3028c52f",
     "homepageId": "5967bd94-649c-466b-b0ec-5a4d9304ac93"
@@ -1271,8 +1271,8 @@
                 "title": " ",
                 "images": [
                   {
-                    "id": "f19a496d-c4de-4baf-a810-b83f0bc9456e",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/main_hero/1769658396651-h12p4hjccd8.jpg",
+                    "id": "27de10a0-7d20-4fc5-bf9c-344e02c85707",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/main_hero/1783918554006-6jakw8749b.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -1286,8 +1286,8 @@
                   "title": " 단독 개별 수영장",
                   "images": [
                     {
-                      "id": "7e5c0dca-90ea-428d-8c3e-f32dad8bc543",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/main_about/1769658396653-p944vynozv.jpg",
+                      "id": "1617a577-f85a-4c5e-9bad-8aad18bfd0ad",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/main_about/1783918554023-40lvfx4in5.jpg",
                       "sortOrder": 0,
                       "description": "",
                       "isSelected": true,
@@ -1301,8 +1301,8 @@
                   "title": "불멍으로 완성되는 밤",
                   "images": [
                     {
-                      "id": "3326e4cb-4573-46e8-adc0-006115281334",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/main_about/1769406959056-ytnunpvmwk8.jpg",
+                      "id": "07f81477-5905-4a7c-bc7c-eb07d1dad362",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/main_about/1783918554015-mxqfk9r89s.jpg",
                       "sortOrder": 1,
                       "description": "",
                       "isSelected": true,
@@ -1311,6 +1311,21 @@
                   ],
                   "blockId": "a6a31527-9bb4-4b33-af9a-68ede977586f",
                   "description": "캠프파이어와 함께 즐기는 불멍의 여유\n타닥이는 소리에 마음까지 따뜻해집니다."
+                },
+                {
+                  "title": "오션뷰를 담은 한 끼",
+                  "images": [
+                    {
+                      "id": "ebf01d39-ee28-4c02-bb3b-b18c726dacd2",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/main_about/1783918554024-4x3lbsi13b.jpg",
+                      "sortOrder": 2,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "7dff2f32-eb6d-4c2d-85b8-ae8466b19cf2"
+                    }
+                  ],
+                  "blockId": "7dff2f32-eb6d-4c2d-85b8-ae8466b19cf2",
+                  "description": ""
                 }
               ]
             }
