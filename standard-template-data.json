@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.44.0",
-    "generatedAt": "2026-07-13T04:56:35.312401892Z",
+    "version": "1.45.0",
+    "generatedAt": "2026-07-13T05:05:46.413948405Z",
     "templateType": "full_banner_wipe",
     "propertyId": "08497e8d-1afe-400c-a55c-923d3028c52f",
     "homepageId": "5967bd94-649c-466b-b0ec-5a4d9304ac93"
@@ -107,32 +107,81 @@
         "displayOrder": 1,
         "images": [
           {
-            "id": "cee5e5b0-9345-4a23-ac4c-224f3acd801c",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/151cc7a9-b36b-4499-8bed-fd9c1a6bc359/main/1769406461448-5ldtbij5em.jpg",
+            "id": "ff421966-2110-44aa-b103-14a3c5b077e6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/151cc7a9-b36b-4499-8bed-fd9c1a6bc359/main/1783918915885-xo8a7qqf3z.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "2f020b86-aa71-4df1-8a16-aeb022be1b59",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/151cc7a9-b36b-4499-8bed-fd9c1a6bc359/main/1769406461448-vau0z7z6ct.jpg",
+            "id": "3ccf3594-aff2-4386-bdd5-7ffd6da674f6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/151cc7a9-b36b-4499-8bed-fd9c1a6bc359/main/1783918915884-6302lispp5.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "20aed5d5-53d4-4eb4-87df-84c839b04598",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/151cc7a9-b36b-4499-8bed-fd9c1a6bc359/main/1769406461448-56v5x4g172.jpg",
+            "id": "0b1937a9-e7cb-43fc-b7bf-e6ee4adfc0b4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/151cc7a9-b36b-4499-8bed-fd9c1a6bc359/main/1783918915887-qkv1toz681.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "9bce148f-96a4-4d8b-9d8e-16981afcfa66",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/151cc7a9-b36b-4499-8bed-fd9c1a6bc359/main/1769406461448-rx2h6o2xsoc.jpg",
+            "id": "815cc7a5-ebf8-4d5b-bc49-c6dd3b86c349",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/151cc7a9-b36b-4499-8bed-fd9c1a6bc359/main/1783918915886-rinup1jegn.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "309e723f-f210-4bd9-9bee-d986e39c90ad",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/151cc7a9-b36b-4499-8bed-fd9c1a6bc359/main/1783918915887-knpfjx0ye3.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "ac6f9eaa-fcb6-46ed-8f18-6acf06dcd8ed",
+        "name": "개별바베큐",
+        "description": "여유로운 공간에서 즐기는 식사 시간은\n단순한 한 끼를 넘어 특별한 기억으로 남습니다.\n편안한 분위기 속에서 온전한 시간을 보내보세요.",
+        "usageGuide": "- 숯+그릴 바베큐 : 2인기준 20,000원+1인당 5,000원 (백탄 사용)\n※ 바베큐 이용을 원할 시 사전에 연락바랍니다.\n※ 1박 기준/현장결제",
+        "displayOrder": 2,
+        "images": [
+          {
+            "id": "d567bc86-3bd2-4844-a28a-d58c14c222b8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ac6f9eaa-fcb6-46ed-8f18-6acf06dcd8ed/main/1783909488009-82tngi4qgv.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "adf053fa-62be-4d0a-879c-02e166ed02c8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ac6f9eaa-fcb6-46ed-8f18-6acf06dcd8ed/main/1783909487997-kiqrlsw0e4.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "b2d87a60-971f-4f60-8d32-af13a3f0c98d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ac6f9eaa-fcb6-46ed-8f18-6acf06dcd8ed/main/1783909488081-hxwglrjv24.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "f5f31a69-5b82-460f-beaa-cc57a80b43c1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ac6f9eaa-fcb6-46ed-8f18-6acf06dcd8ed/main/1783909487983-b2w0mr9qor.jpg",
             "sortOrder": 3,
             "description": "",
             "isSelected": true,
@@ -145,7 +194,7 @@
         "name": "불멍",
         "description": "불멍 서비스를 제공합니다.",
         "usageGuide": "- 이용 객실: 102호\n- 요금 : 30,000원 (장작 제공)\n※ 날씨에 따라 이용이 변동될 수 있습니다.\n※ 현장결제",
-        "displayOrder": 2,
+        "displayOrder": 3,
         "images": [
           {
             "id": "d3d3f254-dd04-4c84-8815-e86ed88c9fab",
@@ -178,7 +227,7 @@
         "name": "낚시&항구",
         "description": "물 위를 바라보며 보내는 시간 속에서\n천천히 마음이 정리되는 순간을 느낄 수 있습니다.\n조용한 여유를 그대로 담아보세요.",
         "usageGuide": "",
-        "displayOrder": 3,
+        "displayOrder": 4,
         "images": [
           {
             "id": "fa26d8a3-b3e1-4798-8648-a9ae125f63d7",
@@ -219,7 +268,7 @@
         "name": "부대시설",
         "description": "머무는 모든 순간이 편안하게 이어질 수 있도록\n세심한 준비로 공간의 완성도를 더했습니다.\n부담 없이 쉬어갈 수 있는 시간을 제공합니다.",
         "usageGuide": "[빔프로젝트]\n- 이용 객실 : 203호\n- 요금 : 20,000원 현장결제\n\n[블루투스 스피커]\n- 이용 객실 : 202호\n- 무료 이용",
-        "displayOrder": 4,
+        "displayOrder": 5,
         "images": [
           {
             "id": "3596418f-c83a-48a1-b960-a3b3a41d2671",
@@ -241,47 +290,6 @@
             "id": "73ddf606-ae50-4969-89ce-921cd5dd7a60",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/71e39f7c-62a0-49b6-96b2-638c770773a1/main/1783911028122-71phj5cnnz.jpg",
             "sortOrder": 2,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          }
-        ]
-      },
-      {
-        "id": "ac6f9eaa-fcb6-46ed-8f18-6acf06dcd8ed",
-        "name": "개별바베큐",
-        "description": "",
-        "usageGuide": "- 숯+그릴 바베큐 : 2인기준 20,000원+1인당 5,000원 (백탄 사용)\n※ 바베큐 이용을 원할 시 사전에 연락바랍니다.\n※ 1박 기준/현장결제",
-        "displayOrder": 9,
-        "images": [
-          {
-            "id": "d567bc86-3bd2-4844-a28a-d58c14c222b8",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ac6f9eaa-fcb6-46ed-8f18-6acf06dcd8ed/main/1783909488009-82tngi4qgv.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "adf053fa-62be-4d0a-879c-02e166ed02c8",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ac6f9eaa-fcb6-46ed-8f18-6acf06dcd8ed/main/1783909487997-kiqrlsw0e4.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "b2d87a60-971f-4f60-8d32-af13a3f0c98d",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ac6f9eaa-fcb6-46ed-8f18-6acf06dcd8ed/main/1783909488081-hxwglrjv24.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "f5f31a69-5b82-460f-beaa-cc57a80b43c1",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ac6f9eaa-fcb6-46ed-8f18-6acf06dcd8ed/main/1783909487983-b2w0mr9qor.jpg",
-            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1467,8 +1475,8 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "d9ca9046-f3b6-4a2a-8d3b-de2ee30ff650",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/reservation_hero/1769415508764-ilcsb6kov4.jpg",
+                    "id": "f3fc77e5-6af2-4eb3-baa1-ed6738ba59b1",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/reservation_hero/1783919144187-njyhk3mxs3.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
