@@ -52,17 +52,14 @@ class BaseDataMapper {
             // 스네이크 케이스를 카멜 케이스로 자동 변환
             this.data = this.convertToCamelCase(rawData);
             this.isDataLoaded = true;
-            console.log(`Data loaded from: ${this.dataSource}`);
 
             // 데이터 소스에 따라 이미지 폴백 처리 설정
             // demo-filled.json: JSON 이미지만 사용 (폴백 없음)
             // standard-template-data.json: image-helpers의 폴백 이미지 사용
             if (this.dataSource === 'demo-filled.json') {
                 window.useImageHelpersFallback = false;
-                console.log('Image fallback disabled - using demo data images only');
             } else {
                 window.useImageHelpersFallback = true;
-                console.log('Image fallback enabled - using image-helpers for empty data');
             }
 
             return this.data;
@@ -335,6 +332,17 @@ class BaseDataMapper {
      * 메타 태그 업데이트 (homepage.seo + 페이지별 SEO 병합)
      * @param {Object} pageSEO - 페이지별 SEO 데이터 (선택사항, 전역 SEO보다 우선 적용)
      */
+    upsertMetaByName(name, content) {
+        if (!content) return;
+        let meta = document.head.querySelector(`meta[name="${name}"]`);
+        if (!meta) {
+            meta = document.createElement('meta');
+            meta.setAttribute('name', name);
+            document.head.appendChild(meta);
+        }
+        meta.setAttribute('content', content);
+    }
+
     updateMetaTags(pageSEO = null) {
         // homepage.seo 글로벌 SEO 데이터 적용
         const globalSEO = this.safeGet(this.data, 'homepage.seo') || {};
@@ -377,6 +385,10 @@ class BaseDataMapper {
         // OG URL은 현재 페이지 URL로 설정
         const ogUrl = this.safeSelect('meta[property="og:url"]');
         if (ogUrl) ogUrl.setAttribute('content', window.location.href);
+
+        // 네이버/구글 사이트 인증 meta 태그 주입 (값 있으면 생성/갱신)
+        this.upsertMetaByName('naver-site-verification', seo.naverSiteVerification);
+        this.upsertMetaByName('google-site-verification', seo.googleSiteVerification);
     }
 
     /**
