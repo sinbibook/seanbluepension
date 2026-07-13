@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.46.0",
-    "generatedAt": "2026-07-13T05:09:53.372822589Z",
+    "version": "1.47.0",
+    "generatedAt": "2026-07-13T05:19:01.424645863Z",
     "templateType": "full_banner_wipe",
     "propertyId": "08497e8d-1afe-400c-a55c-923d3028c52f",
     "homepageId": "5967bd94-649c-466b-b0ec-5a4d9304ac93"
@@ -9,6 +9,7 @@
   "property": {
     "id": "08497e8d-1afe-400c-a55c-923d3028c52f",
     "name": "거제 씨엔블루패밀리 풀빌라",
+    "nameEn": "Geoje Sea N Blue Family Pool Villa",
     "description": "어디에 머물러도 바다가 함께합니다. 창을 여는 순간, 시야 가득 채워지는 푸른 풍경  거제 씨엔블루패밀리 입니다.",
     "subtitle": "",
     "address": "경남 거제시 사등면 가조로8길 10-19 씨엔블루패밀리 풀빌라",
@@ -23,6 +24,9 @@
     "reservationGuide": "[펜션 이용 안내 사항]\n- 최대인원 초과 시 반드시 사전 연락 부탁드립니다. (최대인원 초과로 인한 입실 거부시 환불 불가)\n- 방문객도 인원에 포함되며, 추가요금이 발생됩니다.\n- 객실 내 육류, 튀김류, 생선류 조리를 할 수 없습니다\n- 전 객실 애완동물 출입이 불가합니다\n- 보호자 동반없는 미성년자는 이용하실 수 없습니다\n- 예약변경을 위한 취소시에도 취소수수료가 부과되오니 신중하게 예약하시기 바랍니다.\n- 조용하고 편안한 휴식을 위하여 고성방가, 무분별한 음주가무는 삼가해주시기 바랍니다.\n- 객실 내에서는 절대 금연이며, 발견시 환불조치 없이 퇴실조치됩니다.\n- 객실 내에서는 화재위험물질 (화약, 폭죽 등)은 사용 하실 수 없습니다 (화재로 인한 책임은 이용자에게 있습니다)\n- 객실 및 기타 시설물을 훼손 시 배상의 책임이 있으니 유의하시기 바랍니다.\n- 개인적으로 준비해 오는 취사도구(그릴,숯,전기,전열기구 등)은 반입이 금지되어 있습니다.",
     "province": "경상남도",
     "city": "거제시",
+    "domain": "seanbluepension.kr",
+    "realtimeBookingId": "https://map.naver.com/p/entry/place/1397261073",
+    "ybsId": "",
     "amenities": [
       "흡연구역(지정장소)",
       "주차장"
@@ -47,8 +51,7 @@
       "businessEmail": "",
       "businessType": "corporate",
       "businessCategory": "숙박업",
-      "eCommerceRegistrationNumber": "",
-      "ecommerceRegistrationNumber": ""
+      "eCommerceRegistrationNumber": ""
     },
     "contractInfo": {
       "contractStartDate": "2025-09-10T00:00:00.000Z",
@@ -439,11 +442,7 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ],
-    "nameEn": "Geoje Sea N Blue Family Pool Villa",
-    "domain": "seanbluepension.kr",
-    "realtimeBookingId": "https://map.naver.com/p/entry/place/1397261073",
-    "ybsId": ""
+    ]
   },
   "rooms": [
     {
@@ -1023,6 +1022,7 @@
     }
   ],
   "homepage": {
+    "id": "5967bd94-649c-466b-b0ec-5a4d9304ac93",
     "domain": "seanbluepension.kr",
     "templateType": "full_banner_wipe",
     "images": [
@@ -1492,6 +1492,9 @@
             }
           ]
         },
+        "nearbyAttractions": {
+          "sections": [ ]
+        },
         "layoutMap": {
           "sections": [
             {
@@ -1526,13 +1529,19 @@
               "enabled": true
             }
           ]
-        },
-        "nearbyAttractions": {
-          "sections": [ ]
         }
+      },
+      "popup": {
+        "popups": [ ]
       },
       "theme": {
         "font": {
+          "koMain": {
+            "cdn": "https://fonts.cdnfonts.com/css/noto-serif-kr",
+            "key": "notoserifKR",
+            "woff2": null,
+            "family": "Noto Serif KR"
+          },
           "koSub": {
             "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
             "key": "pretendard",
@@ -1544,12 +1553,6 @@
             "key": "amandine",
             "woff2": null,
             "family": "amandine"
-          },
-          "koMain": {
-            "cdn": "https://fonts.cdnfonts.com/css/noto-serif-kr",
-            "key": "notoserifKR",
-            "woff2": null,
-            "family": "Noto Serif KR"
           }
         },
         "color": {
@@ -1557,10 +1560,8 @@
           "secondary": "#39596F"
         }
       },
-      "popup": {
-        "popups": [ ]
-      },
       "property": {
+        "name": "거제 씨엔블루패밀리 풀빌라",
         "images": [
           {
             "id": "e6896a0f-7aa3-44cf-ad0c-ca85d8d76d3f",
@@ -1671,7 +1672,6 @@
             "category": "property_exterior"
           }
         ],
-        "name": "거제 씨엔블루패밀리 풀빌라",
         "nameEn": "Geoje Sea N Blue Family Pool Villa"
       },
       "roomtypes": [
@@ -2267,7 +2267,6 @@
           ]
         }
       ]
-    },
-    "id": "5967bd94-649c-466b-b0ec-5a4d9304ac93"
+    }
   }
 }
