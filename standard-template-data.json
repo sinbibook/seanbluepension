@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.47.0",
-    "generatedAt": "2026-07-13T05:19:01.424645863Z",
+    "version": "1.48.0",
+    "generatedAt": "2026-07-13T05:21:57.187653128Z",
     "templateType": "full_banner_wipe",
     "propertyId": "08497e8d-1afe-400c-a55c-923d3028c52f",
     "homepageId": "5967bd94-649c-466b-b0ec-5a4d9304ac93"
@@ -1196,16 +1196,16 @@
                 "title": "Preview",
                 "images": [
                   {
-                    "id": "4921979a-bfa3-4909-8d40-1aebd297d4e8",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_gallery/1769652367769-yn24n5hkwo.jpg",
+                    "id": "9d88dd92-e2a4-4ecd-b684-21b302a182a2",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_gallery/1783920112308-jwixeqmee4.jpg",
                     "sortOrder": 0,
                     "description": "202,203호 개별수영장",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "6112d44d-1e9b-4811-bf4a-daed8c827ffb",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_gallery/1769404366799-bgjatvjqc3h.jpg",
+                    "id": "1260629b-c3d5-4b47-bd79-9f2caed61934",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5967bd94-649c-466b-b0ec-5a4d9304ac93/index_gallery/1783920112306-wsc41p9yqp.jpg",
                     "sortOrder": 1,
                     "description": "102호 6미터풀",
                     "isSelected": true,
