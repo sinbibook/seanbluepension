@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.59.0",
-    "generatedAt": "2026-07-16T05:59:08.842048155Z",
+    "version": "1.60.0",
+    "generatedAt": "2026-07-16T06:03:53.359491433Z",
     "templateType": "full_banner_wipe",
     "propertyId": "08497e8d-1afe-400c-a55c-923d3028c52f",
     "homepageId": "5967bd94-649c-466b-b0ec-5a4d9304ac93"
@@ -219,47 +219,6 @@
             "id": "85829b7c-cae9-4bbf-869a-e23c160a49b4",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2fb7b5e0-aac3-4aee-a4c1-1c2b5543582e/main/1783911027269-h2bowhrn2v.jpg",
             "sortOrder": 2,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          }
-        ]
-      },
-      {
-        "id": "1af9bdd6-b259-48e3-92e5-3deb5b21b68d",
-        "name": "낚시&항구",
-        "description": "물 위를 바라보며 보내는 시간 속에서\n천천히 마음이 정리되는 순간을 느낄 수 있습니다.\n조용한 여유를 그대로 담아보세요.",
-        "usageGuide": "",
-        "displayOrder": 4,
-        "images": [
-          {
-            "id": "fa26d8a3-b3e1-4798-8648-a9ae125f63d7",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1af9bdd6-b259-48e3-92e5-3deb5b21b68d/main/1783911210227-hv456w623m.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "105f982b-ffa6-40e2-91c8-0645c3f60eef",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1af9bdd6-b259-48e3-92e5-3deb5b21b68d/main/1783911210227-1jm4ya72t0.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "7e4b118e-32ca-4a6d-8aa6-f65a9d9b0421",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1af9bdd6-b259-48e3-92e5-3deb5b21b68d/main/1783911210228-dxd630u6o7.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "79437b6d-9916-4815-a8b5-419ed3cd5b34",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1af9bdd6-b259-48e3-92e5-3deb5b21b68d/main/1783911210230-pm4ld67d35.jpg",
-            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
